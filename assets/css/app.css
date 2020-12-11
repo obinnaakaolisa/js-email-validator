@@ -11,7 +11,7 @@
 
 body
 {
-    background: #1b1b1b;
+    background: #14033d;
 }
 
 .container
@@ -36,8 +36,8 @@ h3
 #form
 {
     position: relative;
-    border: 2px solid #131313;
-    background: linear-gradient(#1e2024, #18181c);
+    border: 2px solid #0c051b;
+    background: linear-gradient(#0d0229, #0a0a3f);
     border-radius: 4px;
     overflow: hidden;
     max-width: 400px;
